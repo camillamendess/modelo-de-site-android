@@ -74,7 +74,8 @@ body {
 
 #conteudo-principal {
     background-color: white;
-    margin: auto 100px;
+    width: 90%;
+    margin: auto;
     padding: 10px 20px;
     border-radius: 0 0 5px 5px;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.651);
